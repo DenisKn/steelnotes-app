@@ -96,7 +96,7 @@ h1 {
 }
 
 .features {
-  margin: 24px 0 0;
+  margin: 32px 0 0;
   padding: 16px 20px;
   list-style: none;
   text-align: left;
@@ -127,7 +127,7 @@ h1 {
 }
 
 .choose {
-  margin: 28px 0 12px;
+  margin: 24px 0 12px;
   color: var(--muted);
   font-size: 14px;
 }
